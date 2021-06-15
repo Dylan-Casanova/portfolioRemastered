@@ -1,3 +1,17 @@
 .navbar-brand {
     color: black;
 }
+#navLinks{
+    color: black;
+}
+.navlink{
+    color: black
+}
+
+a{
+    color: black !important
+}
+header{
+    background-image: url(/assests/background.png);
+    background-color: blue;
+}
