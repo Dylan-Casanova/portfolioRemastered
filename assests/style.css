@@ -1,6 +1,13 @@
 a{
     color: white!important
 }
+.section-page{
+    padding-top: .5%;
+}
+.skills{
+    padding-bottom: 3%;
+   
+}
 #background{
     background-image: url(/assests/background6.jpeg);
     background-color: rgb(11, 12, 21);
@@ -29,5 +36,6 @@ a{
 .navbar{
     padding-top: 1%;
 }
+
 
 
