@@ -1,17 +1,21 @@
-.navbar-brand {
-    color: black;
+a{
+    color: white!important
 }
-#navLinks{
-    color: black;
+#background{
+    background-image: url(/assests/background6.jpeg);
+    background-color: rgb(11, 12, 21);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    padding-top: 20%;
 }
-.navlink{
-    color: black
+#quote{
+    padding-bottom: 15%;
+    color:rgba(223, 151, 190, 0.925)
 }
 
-a{
-    color: black !important
-}
-header{
-    background-image: url(/assests/background.png);
-    background-color: blue;
+.navbar{
+    padding-top: 1%;
 }
