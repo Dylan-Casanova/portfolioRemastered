@@ -43,8 +43,25 @@ a{
     background-color: white;
     padding-top: 5%;
     padding-bottom: 5%;
+    
 }
-
+#caption1{
+    padding-bottom: 3rem;
+}
+#divider{
+    background-image: url(/assests/images/divider.png);
+    height: 200px;
+    width: 100%;
+    
+}
+#picture-of-me{
+    height: 45%;
+    width: 40%;
+    border-radius: 10%;
+}
+#about-me{
+    background-color: rgba(215, 215, 203, 0.856);
+}
 .portfolio-picture{
     width: 100%;
     height: 90%;
@@ -63,7 +80,7 @@ a{
 }
 .navbar{
     padding-top: 1%;
-    background-color: black;
+    background-color: transparent;
     background-image: url(./images/background6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
