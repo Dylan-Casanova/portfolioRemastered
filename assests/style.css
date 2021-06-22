@@ -4,6 +4,9 @@ a{
 .section-page{
     padding-top: .5%;
 }
+.portfolio-item{
+    padding-top: 5%;
+}
 .skills{
     padding-bottom: 3%;
    
@@ -33,15 +36,21 @@ a{
 }
 #portfolio{
     padding-top: 2%;
-    background-color: rgba(247, 247, 247, 0.808)
+    background-color: rgb(243 243 243);
+    
 }
 #portfolio-caption{
     background-color: white;
     padding-top: 5%;
+    padding-bottom: 5%;
 }
-#travel-mentor{
+
+.portfolio-picture{
     width: 100%;
     height: 90%;
+}
+.portfolio-title{
+    padding-bottom: 2%;
 }
 .btn{
     color: rgba(223, 151, 190, 0.925) !important ;
@@ -54,6 +63,10 @@ a{
 }
 .navbar{
     padding-top: 1%;
+    background-color: black;
+    background-image: url(./images/background6.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
