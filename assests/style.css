@@ -94,6 +94,47 @@ p{
     padding-top: 5%;
     font-weight: 445;
 }
+.inside-text{
+    color: rgb(30, 30, 221);
+}
+.date{
+    color: black !important;
+}
+#bootcamp{
+    background-image: url(/assests/images/bootcamp.png);
+    background-size: cover;
+}
+#wf{
+    background-image: url(/assests/images/wf.png);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(223, 192, 192, 0.959);
+    background-blend-mode: screen
+}
+#naturalization{
+    background-image: url(/assests/images/usFlag.png);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(223, 192, 192, 0.959);
+    background-blend-mode: screen
+}
+#tamusa{
+    background-image: url(/assests/images/tamusa.png);
+    background-size: cover;
+    background-position: 30% 30%;
+    background-color: rgba(194, 183, 183, 0.959);
+    background-blend-mode:lighten
+  
+}
+#coding{
+    background-image: url(/assests/images/coding.png);
+    background-size: cover;
+    color: white;
+}
+ #coding p{
+     color: white;
+ }
+
 
 
 
