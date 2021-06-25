@@ -17,7 +17,7 @@ p{
 }
 #background{
     background-color: rgb(11, 12, 21);
-    background-image: url(/assests/images/background6.jpeg);
+    background-image: url(../assests/images/background6.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -53,7 +53,7 @@ p{
     padding-bottom: 3rem;
 }
 #divider{
-    background-image: url(/assests/images/divider.png);
+    background-image: url(../assests/images/divider.png);
     height: 200px;
     width: 100%;
     
@@ -102,25 +102,25 @@ p{
     color: black !important;
 }
 #bootcamp{
-    background-image: url(/assests/images/bootcamp.png);
+    background-image: url(../assests/images/bootcamp.png);
     background-size: cover;
 }
 #wf{
-    background-image: url(/assests/images/wf.png);
+    background-image: url(../assests/images/wf.png);
     background-size: cover;
     background-position: center;
     background-color: rgba(223, 192, 192, 0.959);
     background-blend-mode: screen
 }
 #naturalization{
-    background-image: url(/assests/images/usFlag.png);
+    background-image: url(../assests/images/usFlag.png);
     background-size: cover;
     background-position: center;
     background-color: rgba(223, 192, 192, 0.959);
     background-blend-mode: screen
 }
 #tamusa{
-    background-image: url(/assests/images/tamusa.png);
+    background-image: url(../assests/images/tamusa.png);
     background-size: cover;
     background-position: 30% 30%;
     background-color: rgba(194, 183, 183, 0.959);
@@ -128,7 +128,7 @@ p{
   
 }
 #coding{
-    background-image: url(/assests/images/coding.png);
+    background-image: url(../assests/images/coding.png);
     background-size: cover;
     color: white;
 }
@@ -138,7 +138,7 @@ p{
 
 
 footer{
-    background-image: url(/assests/images/navbar2.png);
+    background-image: url(../assests/images/navbar2.png);
     height: 50px;
     background-size: cover;
     background-repeat: no-repeat;
