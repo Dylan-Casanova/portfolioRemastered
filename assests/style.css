@@ -4,6 +4,7 @@ a{
 p{
     line-height: 1.75;
 }
+
 .section-page{
     padding-top: .5%;
 }
@@ -136,7 +137,17 @@ p{
  }
 
 
+footer{
+    background-image: url(/assests/images/navbar2.png);
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
 
+}
 
 
 
