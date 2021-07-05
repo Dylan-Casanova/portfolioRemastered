@@ -90,9 +90,11 @@ p{
 .navbar{
     padding-top: 1%;
     background-color: transparent;
-    background-image: url(./images/background6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.nav1{
+    background-image: url(./images/background6.jpeg);
 }
 .text-left{
     padding-top: 5%;
