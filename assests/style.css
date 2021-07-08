@@ -54,7 +54,10 @@ p{
     
 }
 #caption1{
-    padding-bottom: 3rem;
+    padding-bottom: 10px;
+}
+#caption2{
+    padding-bottom: 1px;
 }
 #divider{
     background-image: url(../assests/images/divider.png);
@@ -71,7 +74,9 @@ p{
 .captionWho{
     padding-top: 5%;
 }
-
+.highlight:hover{
+    box-shadow: inset 0px 0px 8px rgb(18, 25, 131), 0 0 15px rgb(16, 56, 116);
+}
   
 .portfolio-picture{
     width: 100%;
