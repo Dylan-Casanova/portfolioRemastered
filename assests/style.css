@@ -203,6 +203,16 @@ background-size: cover;
         color: rgb(0, 0, 0);
  }
 
+ #modal-background6{
+    background-image: url(./images/modal6.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(182, 180, 168, 0.801);
+    background-blend-mode:lighten;
+    color: rgb(0, 0, 0);
+}
+
 
 .btn-modal{
     margin-top: 3%;
