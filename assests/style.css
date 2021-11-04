@@ -8,6 +8,7 @@ p{
     line-height: 1.75;
 }
 
+
 .section-page{
     padding-top: .5%;
 }
@@ -162,7 +163,10 @@ footer{
     padding-top: 1%;
     padding-bottom: 1%;
 
+
 }
+
+
 
 /* modal styling */
 #modal-background1{
